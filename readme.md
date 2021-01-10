@@ -2,7 +2,8 @@
 
 > Toast Notification on Vanilla JS
 
-### [Demo]()
+### [Demo](http://toast-notification-ab.surge.sh/)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://nimb.ws/W5R1HU)
 
 ### Get started
 
