@@ -53,3 +53,25 @@ body {
   padding: 1rem 2rem;
   margin: .5rem;
 }
+
+.toast.info {
+  color: rebeccapurple;
+}
+
+.toast.success {
+  color: #fff;
+  background: green;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+}
+
+.toast.error {
+  color: #fff;
+  background: #a53939;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+}
+
+.toast.warning {
+  color: #fff;
+  background: #db9f0f;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+}
